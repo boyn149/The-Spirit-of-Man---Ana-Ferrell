@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">fac19f00-5e8d-4624-b052-1707c879efec</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fac19f00-5e8d-4624-b052-1707c879efec</dc:identifier>
+        <dc:title>The Spirit of Man</dc:title>
+        <dc:creator opf:file-as="Ferrell, Ana" opf:role="aut">Ana Ferrell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-08-11T17:00:00+00:00</dc:date>
+        <dc:description>As we understand the origin of where we come from and the image in Whom we were created, we will find our true identity and the power that was given to us. In this book of deep revelation, the author takes us to discover the anatomy of our invisible being. You will learn how we were conceived by God and the different functions of our Spirit, soul and heart. A mystery that has been veiled for centuries but that God is revealing to us.In this book you will also discover:-	How to reach your highest spiritual potential-	How your Tri-part being functions and interacts in the spiritual and physical dimensions-	The spiritual origin of sickness and healthThe Spirit of Man is a true legacy of knowledge that will spiritually develop you in ways you have always longed for.</dc:description>
+        <dc:publisher>Voice of The Light Ministries</dc:publisher>
+        <dc:rights>Voice of The Light Ministries, P.O. Box 34 18, Ponte Vedra, FL 32004, USA</dc:rights>
+        <dc:language>en</dc:language>
+        <dc:subject>Deliverance</dc:subject>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
